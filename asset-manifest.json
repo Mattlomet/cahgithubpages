@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cahgithubpages/static/css/main.5e0dafdc.chunk.css",
+    "main.js": "/cahgithubpages/static/js/main.0a40fa96.chunk.js",
+    "main.js.map": "/cahgithubpages/static/js/main.0a40fa96.chunk.js.map",
+    "runtime-main.js": "/cahgithubpages/static/js/runtime-main.0589eede.js",
+    "runtime-main.js.map": "/cahgithubpages/static/js/runtime-main.0589eede.js.map",
+    "static/js/2.77922db4.chunk.js": "/cahgithubpages/static/js/2.77922db4.chunk.js",
+    "static/js/2.77922db4.chunk.js.map": "/cahgithubpages/static/js/2.77922db4.chunk.js.map",
+    "index.html": "/cahgithubpages/index.html",
+    "precache-manifest.04ef9160a2b100d405f8c0a364aa4137.js": "/cahgithubpages/precache-manifest.04ef9160a2b100d405f8c0a364aa4137.js",
+    "service-worker.js": "/cahgithubpages/service-worker.js",
+    "static/css/main.5e0dafdc.chunk.css.map": "/cahgithubpages/static/css/main.5e0dafdc.chunk.css.map",
+    "static/js/2.77922db4.chunk.js.LICENSE.txt": "/cahgithubpages/static/js/2.77922db4.chunk.js.LICENSE.txt",
+    "static/media/cloud1.svg": "/cahgithubpages/static/media/cloud1.5f7a1909.svg",
+    "static/media/logo.svg": "/cahgithubpages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0589eede.js",
+    "static/js/2.77922db4.chunk.js",
+    "static/css/main.5e0dafdc.chunk.css",
+    "static/js/main.0a40fa96.chunk.js"
+  ]
+}
